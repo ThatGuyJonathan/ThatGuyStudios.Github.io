@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to ThatGuyStudios
 
-You can use the [editor on GitHub](https://github.com/ThatGuyJonathan/ThatGuyStudios.Github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ThatGuyStudios is a Online Gaming Community focused on online gaming, from simulations to RPG games. Online gaming community for all ages!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our Staff
 
-### Markdown
+Director - ThatGuyJonathan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Deputy Director - dualznz
 
-```markdown
-Syntax highlighted code block
+Community Manager - RandallGaming65
 
-# Header 1
-## Header 2
-### Header 3
+Discord Management - ThatGuyZachariah
 
-- Bulleted
-- List
+Senior Game Moderation Manager - Tim T
 
-1. Numbered
-2. List
+Administrator - Flash/Nightcrawler
 
-**Bold** and _Italic_ and `Code` text
+#### Social Media's & Links
 
-[Link](url) and ![Image](src)
-```
+You Can Find A List Of How To Contact/Join Us!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Discord](https://discord.gg/M7ACRsUGp9) 
 
-### Jekyll Themes
+[For Support] (thatguysoftwares@gmail.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThatGuyJonathan/ThatGuyStudios.Github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### Community Ambassador Program
 
-### Support or Contact
+As Always, We are looking for content creator's, want to be featured in your work? Join our Discord and apply for Community Ambassador!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###### **Staff Application** 
+
+Our Staff Application's Are Open And Can Be Found On Our Discord, Please Note That Staff Apps Are Plan On Closing On **9/25/2021**
