@@ -16,7 +16,7 @@ Senior Game Moderation Manager - Tim T
 
 Administrator - Flash/Nightcrawler
 
-#### Social Media's & Links
+### Social Media's & Links
 
 You Can Find A List Of How To Contact/Join Us!
 
@@ -24,10 +24,10 @@ You Can Find A List Of How To Contact/Join Us!
 
 [For Support] (thatguysoftwares@gmail.com)
 
-##### Community Ambassador Program
+### Community Ambassador Program
 
 As Always, We are looking for content creator's, want to be featured in your work? Join our Discord and apply for Community Ambassador!
 
-###### **Staff Application** 
+### **Staff Application** 
 
 Our Staff Application's Are Open And Can Be Found On Our Discord, Please Note That Staff Apps Are Plan On Closing On **9/25/2021**
