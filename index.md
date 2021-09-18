@@ -1,8 +1,8 @@
-## Welcome to ThatGuyStudios
+## **Welcome to ThatGuyStudios**
 
 ThatGuyStudios is a Online Gaming Community focused on online gaming, from simulations to RPG games. Online gaming community for all ages!
 
-### Our Staff
+### **Our Staff**
 
 Director - ThatGuyJonathan
 
@@ -16,7 +16,7 @@ Senior Game Moderation Manager - Tim T
 
 Administrator - Flash/Nightcrawler
 
-### Social Media's & Links
+### **Social Media's & Links**
 
 You Can Find A List Of How To Contact/Join Us!
 
@@ -24,7 +24,7 @@ You Can Find A List Of How To Contact/Join Us!
 
 [For Support] (thatguysoftwares@gmail.com)
 
-### Community Ambassador Program
+### **Community Ambassador Program**
 
 As Always, We are looking for content creator's, want to be featured in your work? Join our Discord and apply for Community Ambassador!
 
